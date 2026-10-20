@@ -1,0 +1,43 @@
+## **Sprint 1 Plan – Student Management Portal**
+
+## **Sprint Duration**
+
+1 week (example plan)
+
+## **Sprint Goal**
+
+To establish the basic structure and initial design of the Student Management Portal.
+
+## **Selected Backlog Items**
+
+- PB1: Student registration
+- PB2: Student login
+- PB3: Student profile
+
+## **Sprint Tasks**
+
+1. Create the project repository and README.
+2. Prepare the Product Backlog.
+3. Design a basic login page.
+4. Design a student registration page.
+5. Plan the student profile page.
+6. Review the work and update the repository.
+
+## **Expected Deliverables**
+
+- GitHub repository
+- README documentation
+- Product Backlog
+- Basic login and registration page designs or mockups
+- Student profile page plan
+
+## **Scrum Activities**
+
+- Sprint Planning: Select the tasks and define the sprint goal.
+- Daily Scrum: Briefly discuss progress, next steps, and blockers.
+- Sprint Review: Check the completed work against the sprint goal.
+- Sprint Retrospective: Discuss what went well and what can be improved.
+
+## **Definition of Done**
+
+The selected tasks are documented, reviewed, and committed to GitHub. Any required page designs are prepared and checked.
