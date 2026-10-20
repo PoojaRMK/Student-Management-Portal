@@ -1,0 +1,21 @@
+## **Product Backlog – Student Management Portal**
+
+- ID| User Story| Priority
+- PB1| As a student, I want to register an account so that I can access the portal.| High
+- PB2| As a student, I want to log in securely so that I can view my details.| High
+- PB3| As a student, I want to view my profile so that I can check my information.| High
+- PB4| As an admin, I want to add student records so that student details can be maintained.| High
+- PB5| As an admin, I want to update student records so that information stays accurate.| Medium
+- PB6| As a student, I want to view my attendance so that I can track my attendance.| Medium
+- PB7| As a student, I want to view my marks so that I can check my academic performance.| Medium
+- PB8| As an admin, I want to search student records so that I can find information quickly.| Medium
+- PB9| As an admin, I want to delete outdated records when authorized.| Low
+- PB10| As a student, I want to log out so that I can end my session safely.| Medium
+
+## **Product Goal**
+
+To plan a simple, organized portal for managing student information.
+
+## **Definition of Done**
+
+A task is complete when its requirements are met, the work is reviewed, and the changes are committed to the repository.
